@@ -1,0 +1,4 @@
+com\anto\epitome\config\RootConfig.class
+com\anto\epitome\controller\HomeController.class
+com\anto\epitome\config\WebConfig.class
+com\anto\epitome\config\MyWebAppInitializer.class
